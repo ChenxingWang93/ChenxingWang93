@@ -1,10 +1,15 @@
 - 👋 Hi, I’m @ChenxingWang93 with AEC background
 - 👀 I’m interested in Quantitative/ Scientific Data Analysis &Visualization
   \ ComputerGraphic
+  
   \ ComputationalGeometry
+  
   \ AR VR
+  
   \ Linking CAD CAM(AFR)
+  
   \ Rapid Prototyping Manufacturing(RPM) ...
+  
 - 🌱 I’m currently learning C\C++\C#\Python ...
 - 💼 I’m looking to collaborate on ...
 - 📫 Pls feel free to reach me chenxing_wang@yahoo.com ...
