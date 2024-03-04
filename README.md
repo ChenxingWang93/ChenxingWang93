@@ -8,8 +8,6 @@
   \ AR VR
   
   \ Linking CAD CAM(AFR)
-  
-  \ Rapid Prototyping Manufacturing(RPM) ...
 
   \ And enjoy building things from scratch ...
   
