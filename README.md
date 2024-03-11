@@ -3,11 +3,11 @@
   
   \ ComputerGraphic
   
-  \ ComputationalGeometry
+  \ ComputationalGeometry ⛏️
   
-  \ AR VR
+  \ AR VR 👓
   
-  \ Linking CAD CAM(AFR)
+  \ Linking CAD CAM(AFR) ⚙️
 
   \ And enjoy building things from scratch ...
   
