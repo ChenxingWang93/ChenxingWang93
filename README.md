@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @ChenxingWang93 with AEC background
 - 👀 I’m interested in Quantitative/ Scientific Data Analysis &Visualization
   
-  \ ComputerGraphic
+  \ ComputerGraphic ⛏️
   
-  \ ComputationalGeometry ⛏️
-  
-  \ AR VR 👓
+  \ ShapeModeling; Parametric curve&Surface models; Algebraic Algorithms; NURBS;
   
   \ Linking CAD CAM(AFR) ⚙️
 
