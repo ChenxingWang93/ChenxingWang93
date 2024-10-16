@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kakarot with AEC background
+- 👋 Hi, I’m @tōnan inut neko with AEC background
 - 👀 I messed up project areas including types of
   
   \ Quantitative/ Scientific Data Mining &Visualization
